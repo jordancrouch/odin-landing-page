@@ -1,3 +1,4 @@
 # odin-landing-page
 Odin Project Landing Page Project
-# VS Code Source Control Sync Test 2
+
+# After testing VS Code Source Control sync, it seems that either the extension or cli should only be separately and exclusively per-project.
